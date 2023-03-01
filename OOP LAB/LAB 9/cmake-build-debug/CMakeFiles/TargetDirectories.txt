@@ -1,0 +1,3 @@
+C:/Users/Tanishq Agarwal/Desktop/LAB 9/cmake-build-debug/CMakeFiles/LAB_9.dir
+C:/Users/Tanishq Agarwal/Desktop/LAB 9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tanishq Agarwal/Desktop/LAB 9/cmake-build-debug/CMakeFiles/rebuild_cache.dir

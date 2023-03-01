@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1648786157 source:n:\oop lab\lab 3\main.cpp
+	<iostream>
+	<stdlib.h>
+	<random>
+	<time.h>
+
